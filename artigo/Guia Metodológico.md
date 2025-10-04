@@ -1,4 +1,4 @@
-# Guia Metodológico para Revisão Sistemática: Metodologias Ativas na Educação
+# Guia Metodológico para Revisão Integrativa: Metodologias Ativas na Educação
 
 A metodologia de revisão integrativa, consolidada por autores como Whittemore e Knafl (2005), é particularmente valiosa por permitir a inclusão de estudos com diversas abordagens metodológicas (quantitativas e qualitativas), o que enriquece a análise do tema. As seis etapas a serem percorridas são cruciais para garantir o rigor e a validade da sua pesquisa.
 
