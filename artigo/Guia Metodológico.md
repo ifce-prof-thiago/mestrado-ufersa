@@ -46,11 +46,11 @@ São utilizados operadores booleanos (AND, OR) para combinar os termos. É cruci
 **String de Busca:**
 
 ```
-("active learning" OR "problem-based learning" OR "flipped classroom" OR "project-based learning" OR "peer instruction" OR "student-centered learning") 
+("active learning" OR "problem-based learning" OR "flipped classroom" OR "project-based learning" OR "student-centered learning") 
 AND 
 (education OR teaching OR learning) 
 AND 
-(impact OR effect OR outcome OR effectiveness OR engagement OR "critical thinking")
+(impact OR outcome OR effectiveness OR engagement OR "critical thinking")
 ```
 
 **Coleta de Dados:**
