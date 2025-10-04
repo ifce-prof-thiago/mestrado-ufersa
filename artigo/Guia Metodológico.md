@@ -2,7 +2,7 @@
 
 A metodologia de revisão integrativa, consolidada por autores como Whittemore e Knafl (2005), é particularmente valiosa por permitir a inclusão de estudos com diversas abordagens metodológicas (quantitativas e qualitativas), o que enriquece a análise do tema. As seis etapas a serem percorridas são cruciais para garantir o rigor e a validade da sua pesquisa.
 
----
+
 
 ### Fase 1: Elaboração da pergunta norteadora
 Esta é a fase mais importante, pois a questão de pesquisa norteará todo o trabalho.
@@ -18,7 +18,7 @@ Esta é a fase mais importante, pois a questão de pesquisa norteará todo o tra
 2.  **Questão Específica:** Qual a eficácia da Aprendizagem Baseada em Problemas (PBL), em comparação com o ensino tradicional, para o desenvolvimento do pensamento crítico?
 3.  **Questão Focada":** Quais são as características e práticas comuns das implementações bem-sucedidas de metodologias ativas que geram maior engajamento dos estudantes?
 
----
+
 
 ### Fase 2: Estabelecimento de Critérios de Inclusão e Exclusão
 
@@ -35,7 +35,7 @@ Os critérios definem com precisão quais estudos serão considerados na sua rev
 
 **Justificativa:** A exclusão de teses e anais de congresso na fase inicial foca em fontes de maior rigor científico (periódicos com revisão por pares). O recorte temporal garante a relevância e contemporaneidade dos achados, essencial em uma área tão dinâmica como a tecnologia educacional.
 
----
+
 
 ### Fase 3: Definição dos Estudos e Coleta de Dados
 
@@ -78,7 +78,7 @@ Será criado uma planilha para extrair as informações relevantes de cada artig
 
 *A classificação do nível de evidência ajuda a avaliar a força dos resultados. Uma escala comum vai do Nível 1 (Revisões sistemáticas com fortes evidências científucas) ao Nível 7 (Opinião de especialistas).
 
----
+
 
 ### Fase 4: Categorização e Avaliação dos Estudos Selecionados
 
@@ -98,7 +98,7 @@ Agrupar os estudos em categorias temáticas que emergem da leitura. Possíveis c
 
 Analisar a qualidade metodológica de cada estudo. Esta avaliação crítica é um diferencial da revisão integrativa em relação a uma revisão de literatura tradicional.
 
----
+
 
 ### Fase 5: Análise e Interpretação dos Resultados
 
@@ -110,7 +110,7 @@ Esta é a fase de síntese que irá comparar os dados, identificar padrões, con
 
 É nesta fase que começamos a identificar "o que dá certo" e em que condições, preparando o terreno para a proposta de uma arquitetura computacional.
 
----
+
 
 ### Fase 6: Apresentação da Revisão e Síntese do Conhecimento
 
